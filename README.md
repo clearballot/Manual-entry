@@ -2,7 +2,7 @@
 
 A non-functional prototype of menual election results entry for ClearCount.
 
-Based on[SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+Based on [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/), an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Getting Started
 
